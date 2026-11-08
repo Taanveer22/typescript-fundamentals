@@ -1,6 +1,10 @@
 "use strict";
 let user = "taanveer";
 console.log(user);
+let fullName = "hasin hayder";
+console.log(fullName);
+let newName = fullName.replace("hasin", "john");
+console.log(newName);
 let age = 28;
 console.log(age);
 let isActive = true;

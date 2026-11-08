@@ -1,6 +1,12 @@
 let user: string = "taanveer";
 console.log(user);
 
+let fullName: string = "hasin hayder";
+console.log(fullName);
+
+let newName: string = fullName.replace("hasin", "john");
+console.log(newName);
+
 let age: number = 28;
 console.log(age);
 
